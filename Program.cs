@@ -2,7 +2,7 @@
 Console.WriteLine($"Desarrollador 1: {alumnoA}");
 
 Console.WriteLine("========================");
-Console.WriteLine("      EQUIPO C#");
+Console.WriteLine("      DAW DEVELOPERS");
 Console.WriteLine("========================");
 
 string equipo = "Los programadores";
