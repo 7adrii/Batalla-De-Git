@@ -1,4 +1,7 @@
-﻿Console.WriteLine("========================");
+﻿string alumnoA = "Javier";
+Console.WriteLine($"Desarrollador 1: {alumnoA}");
+
+Console.WriteLine("========================");
 Console.WriteLine("      EQUIPO DAW");
 Console.WriteLine("========================");
 
