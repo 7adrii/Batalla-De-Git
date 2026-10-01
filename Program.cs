@@ -2,6 +2,9 @@
 Console.WriteLine("      DAW DEVELOPERS");
 Console.WriteLine("========================");
 
+string alumnoA = "Javier";
+Console.WriteLine($"Desarrollador 1: {alumnoA}");
+
 string equipo = "Los programadores";
 int puntos = 100;
 double presupuesto = 50;
